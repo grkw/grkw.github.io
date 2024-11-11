@@ -1,3 +1,9 @@
+@import 'https://cdn.jsdelivr.net/npm/water.css@2/out/water.css';
+
+:root {
+    --links: #bf616a;
+ }
+
 body {
     margin: 60px auto;
     width: 70%;
