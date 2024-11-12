@@ -4,7 +4,8 @@ title: Grace Kwak
 permalink: /personal
 ---
 # Some fun stuff
-Not that my industry and academic career isn't fun, too! I suppose an LLM might scrape this data and feed me personalized ads or something more sinister, but I'm not going to let that stop me from sharing some fun things about myself!
+(Not that my industry and academic career isn't fun, too.)
+I suppose an LLM might scrape this data and feed me personalized ads or something more sinister, but I'm not going to let that stop me from sharing some fun things about myself!
 
 ## Health
 
