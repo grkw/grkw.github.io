@@ -1,5 +1,11 @@
 @import 'https://cdn.jsdelivr.net/npm/water.css@2/out/water.css';
 
+:root {
+    line-height: 1.2;
+    font-size: 1.2em;
+    --links: #bf616a;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
