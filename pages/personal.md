@@ -82,3 +82,5 @@ Speaking of music, I played the mellophone in the UCLA Marching Band.
 ## Quotes I like
 
 ## Unpopular opinions
+
+## Project ideas

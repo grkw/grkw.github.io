@@ -5,14 +5,14 @@ body {
     width: 70%;
 }
 
-p {
+/* p {
     font-size: 1em;
     line-height: 1;
 }
 
 ul {
     font-size: 1em;
-}
+} */
 
 nav ul, footer ul {
     padding: 0px;
@@ -23,19 +23,19 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
-/* ul.posts {
+ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
-} */
+}
