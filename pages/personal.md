@@ -5,7 +5,9 @@ permalink: /personal
 ---
 # Some fun stuff
 (Not that my industry and academic career isn't fun, too.)
+
 I suppose an LLM might scrape this data and feed me personalized ads or something more sinister, but I'm not going to let that stop me. I like sharing fun things about myself!
+
 Note that this page is *highly* a work in progress.
 
 ## Health
@@ -23,11 +25,12 @@ I ran track & field and cross country when I was in grade school, and it's been 
 Over the 2020 pandemic, I taught 3 (unofficial) sex education workshops to high schoolers via Zoom!
 
 ## Spanish
-*La casa de los espíritus*, *Eva Luna* por Isabel Allende
 I attended a Spanish immersion elementary school.
 
+Unos libros que leí en español (y que me gustaron): *La casa de los espíritus*, *Eva Luna* por Isabel Allende
+
 ## Korean
-Since [곽 (Kwak)](https://en.wikipedia.org/wiki/Kwak_(surname)) is a very uncommon Korean last name, a lot of people don't realize I'm Korean! Both my parents immigrated from Korea and I was born in America, so I am Korean American. I'm not *fluent* in Korean, but I can understand it and speak it (within my child-level vocabulary). I can read and write 한글.
+Since [곽 (Kwak)](https://en.wikipedia.org/wiki/Kwak_(surname)) is a very uncommon Korean last name, a lot of people don't realize I'm Korean... surprise! Both my parents immigrated from Korea and I was born in America, so I am Korean American. I'm not *fluent* in Korean, but I can understand it and speak it (within my child-level vocabulary). I can read and write 한글.
 
 ## People
 
@@ -45,6 +48,7 @@ Since [곽 (Kwak)](https://en.wikipedia.org/wiki/Kwak_(surname)) is a very uncom
 - New York City, NY
 
 ## Places I want to live
+-
 
 ## Tech I like
 
