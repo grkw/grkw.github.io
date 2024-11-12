@@ -5,15 +5,6 @@
     font-size: 1.1em;
 }
 
-a:link {
-  color: white;
-  text-decoration: underline;
-}
-
-a:active {
-    color: #bf616a;
-}
-
 body {
     margin: 60px auto;
     width: 70%;
@@ -29,6 +20,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     font-size: 1.5em;
+    color: #F5C18D;
 }
 
 footer {
