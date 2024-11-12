@@ -61,7 +61,9 @@ Since [곽 (Kwak)](https://en.wikipedia.org/wiki/Kwak_(surname)) is a very uncom
 
 ## Media I like
 
-### Books
+### Books I like
+- Saving Time: Discovering a Life Beyond the Clock by Jenny Odell
+- How to Do Nothing: Resisting the Attention Economy by Jenny Odell
 
 ### Movies
 
