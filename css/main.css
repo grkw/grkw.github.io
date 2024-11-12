@@ -3,7 +3,15 @@
 :root {
     line-height: 1.1;
     font-size: 1.1em;
-    --links: #bf616a;
+}
+
+a:link {
+  color: white;
+  text-decoration: underline;
+}
+
+a:active {
+    color: #bf616a;
 }
 
 body {
@@ -25,7 +33,6 @@ nav ul li, footer ul li {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    /* font-size: 1.5em; */
 }
 
 ul.posts {
