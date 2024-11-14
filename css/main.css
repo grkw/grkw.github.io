@@ -20,7 +20,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     font-size: 1.5em;
-    color: #F5C18D;
+    color: #dc963a;
 }
 
 footer {
@@ -28,11 +28,11 @@ footer {
 }
 
 nav a {
-    color: #F5C18D !important; /* Force the link color in the nav */
+    color: #dc963a !important; /* Force the link color in the nav */
 }
 
 footer a {
-    color: #F5C18D !important; /* Force the link color in the footer */
+    color: #dc963a !important; /* Force the link color in the footer */
 }
 
 ul.posts {
