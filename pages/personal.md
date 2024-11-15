@@ -50,31 +50,6 @@ Since [곽 (Kwak)](https://en.wikipedia.org/wiki/Kwak_(surname)) is a very uncom
 ## Places I want to live
 -
 
-## Tech I like
-
-### Apps
-- [Arc browser](https://arc.net/)
-- [Obsidian](https://obsidian.md/)
-- [Warp](https://warp.dev/)
-- [Todoist](https://todoist.com/)
-- [TIDAL](https://tidal.com/)
-- [Spark Email](https://sparkmailapp.com/)
-- [Signal Messenger](https://signal.org/)
-- [Proton Password Manager](https://protonmail.com/password-manager)
-- [Maccy Clipboard Manager](https://maccy.app/)
-
-## Media I like
-
-### Books I like
-- Saving Time: Discovering a Life Beyond the Clock by Jenny Odell
-- How to Do Nothing: Resisting the Attention Economy by Jenny Odell
-
-### Movies
-
-### Music
-Speaking of music, I played the mellophone in the UCLA Marching Band.
-### Podcasts
-
 ## Arts & crafts
 
 ### Crochet & knitting
@@ -88,3 +63,6 @@ Speaking of music, I played the mellophone in the UCLA Marching Band.
 ## Unpopular opinions
 
 ## Project ideas
+
+## Miscellaneous
+- I played the mellophone in the UCLA Marching Band.
