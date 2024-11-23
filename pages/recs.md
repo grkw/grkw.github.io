@@ -22,8 +22,8 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 ## Media
 
 ### Books
-- Saving Time: Discovering a Life Beyond the Clock by Jenny Odell
-- How to Do Nothing: Resisting the Attention Economy by Jenny Odell
+- Saving Time: Discovering a Life Beyond the Clock by Jenny Odell (quotes that stood out to me)
+- How to Do Nothing: Resisting the Attention Economy by Jenny Odell (quotes that stood out to me)
 
 ## Career
 - [How to Answer "Tell Me About Yourself (Formula + Examples)"](https://kristina.substack.com/p/how-to-answer-tell-me-about-yourself)
