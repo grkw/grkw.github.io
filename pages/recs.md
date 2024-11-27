@@ -26,9 +26,9 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 
 ### Books
 
-- _Saving Time: Discovering a Life Beyond the Clock_ by Jenny Odell [(quotes I like)](http://gracekwak.me/saving_time)
-- _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell [(quotes I like)](http://gracekwak.me/how_to_do_nothing)
-- _Trick Mirror: Reflections on Self-Delusion_ by Jia Tolentino [(quotes I like)](http://gracekwak.me/trick_mirror)
+- _Saving Time: Discovering a Life Beyond the Clock_ by Jenny Odell [(quotes I like)](http://gracekwak.me/booknotes/saving_time)
+- _How to Do Nothing: Resisting the Attention Economy_ by Jenny Odell [(quotes I like)](http://gracekwak.me/booknotes/how_to_do_nothing)
+- _Trick Mirror: Reflections on Self-Delusion_ by Jia Tolentino [(quotes I like)](http://gracekwak.me/booknotes/trick_mirror)
 
 ## Career
 
