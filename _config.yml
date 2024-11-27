@@ -1,3 +1,7 @@
 name: Grace Kwak
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections:
+  booknotes:
+    output: true
+    permalink: /booknotes/:path

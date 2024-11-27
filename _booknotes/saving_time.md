@@ -1,7 +1,6 @@
 ---
 layout: booknotes
 title: "Saving Time: Discovering a Life Beyond the Clock by Jenny Odell"
-permalink: /saving_time
 ---
 
 > This view of abstract labor hours could not have been more alien to task-oriented communities who organized their activities based on different ecological and cultural cues -- such as the flowering or fruiting of a certain plant -- and where things took however much time they took. These communities, for whom work was not profit but part of a social economy, did not make the same distinctions between what was called "work time" and "nonwork time."

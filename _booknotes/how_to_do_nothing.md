@@ -1,7 +1,6 @@
 ---
 layout: booknotes
 title: "How to Do Nothing: Resisting the Attention Economy by Jenny Odell"
-permalink: /how_to_do_nothing
 ---
 
 - something like a collage is at the heart of the unstable and highly personal process of perception

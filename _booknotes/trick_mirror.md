@@ -1,7 +1,6 @@
 ---
 layout: booknotes
 title: "Trick Mirror: Reflections on Self-Delusion by Jia Tolentino"
-permalink: /trick_mirror
 ---
 
 ## The I In the Internet
