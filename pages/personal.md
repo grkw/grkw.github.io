@@ -84,3 +84,4 @@ Since [곽 (Kwak)](<https://en.wikipedia.org/wiki/Kwak_(surname)>) is a very unc
 ## In my next life
 
 - [Hack Club](https://hackclub.com/)
+- Farming (beekeeping, chicken coop, gardening)
