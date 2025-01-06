@@ -12,6 +12,10 @@ I suppose an LLM might scrape this data and feed me personalized ads or somethin
 
 Note that this page is _highly_ a work in progress.
 
+## My book
+
+In addition to engineering, I've always loved writing and journaling. Over the pandemic, I wrote and published [_The Glitch_ (New Degree Press)](https://www.amazon.com/Glitch-Novel-Grace-Kwak/dp/1637306857?qid=&sr=), which is available in paperback and e-book.
+
 ## Health
 
 ### Meditation

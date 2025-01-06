@@ -1,32 +1,27 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			 <link rel="stylesheet" type="text/css" href="/css/main.css">
-			 <link href='http://gracekwak.me/feed.xml' rel='alternate' type='application/atom+xml'>
-			 <link rel="icon" href="/favicon.ico" type="image/x-icon"></head>
-		<body>
-			<nav>
-			    <ul>
-	        		<li><a href="/">Home</a></li>
-					<li><a href="/blog">Blog</a></li>
-		        	<li><a href="/personal">Personal</a></li>
-				    <li><a href="/recs">Recs</a></li>
-				    <li><a href="/site">Site</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+<html>
 
-			{{ content }}
+<head>
+	<title>{{ page.title }}</title>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<link href='http://gracekwak.me/feed.xml' rel='alternate' type='application/atom+xml'>
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
 
-			<!li-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:gracekwak@ucla.edu">email</a></li>
-	        		<li><a href="https://github.com/grkw">github</a></li>
-					<li><a href="https://www.linkedin.com/in/grace-j-kwak/">linkedin</a></li>
-					<li><a href="/assets/pdf/cv.pdf">cv</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/personal">Personal</a></li>
+			<li><a href="/recs">Recs</a></li>
+			<li><a href="/site">Site</a></li>
+		</ul>
+	</nav>
+	<div class="container">
+
+		{{ content }}
+
+</body>
+
+</html>

@@ -1,45 +1,40 @@
-@import 'https://cdn.jsdelivr.net/npm/water.css@2/out/water.css';
+@import "https://cdn.jsdelivr.net/npm/water.css@2/out/light.css";
 
 :root {
-    line-height: 1.1;
-    font-size: 1.1em;
+  line-height: 1.1;
+  font-size: 1.1em;
 }
 
 body {
-    margin: 60px auto;
-    width: 70%;
+  margin: 60px auto;
+  width: 70%;
 }
 
-nav ul, footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+nav ul,
+footer ul {
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
 }
 
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-    font-size: 1.5em;
-    color: #dc963a;
-}
-
-footer {
-    border-top: 1px solid #d5d5d5;
+nav ul li,
+footer ul li {
+  display: inline;
+  margin-right: 20px;
+  font-size: 1.5em;
 }
 
 nav a {
-    color: #dc963a !important; /* Force the link color in the nav */
-}
-
-footer a {
-    color: #dc963a !important; /* Force the link color in the footer */
+  color: #f18800 !important;
+  /* Force the link color in the nav */
 }
 
 ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
+  margin: 0px auto 0px;
+  font-size: 1.4em;
+  padding: 0;
 }
 
 ul.posts li {
-    list-style: none;
+  list-style: none;
 }
