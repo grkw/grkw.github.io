@@ -12,15 +12,18 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 
 ### Apps
 
-- [Arc browser](https://arc.net/)
-- [Obsidian](https://obsidian.md/)
-- [Warp](https://warp.dev/)
-- [Todoist](https://todoist.com/)
-- [TIDAL](https://tidal.com/)
-- [Spark Email](https://sparkmailapp.com/)
-- [Signal Messenger](https://signal.org/)
-- [Proton Password Manager](https://protonmail.com/password-manager)
-- [Maccy Clipboard Manager](https://maccy.app/)
+- [Arc browser](https://arc.net/): a web browser with the UI I was looking for to stay focused and organized on the internet (though it is Chrome-based)
+- [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid): Chrome extension that removes YouTube recommended and shorts
+- [Minimal LinkedIn](https://github.com/cindywu/minimal-linkedin): a Chrome extension that blocks the cluttery content
+- [Obsidian](https://obsidian.md/): a simple, infinitely customizable Markdown-based text editor
+- [Warp](https://warp.dev/): a terminal with block-based UI for commands; it just makes sense!
+- [Todoist](https://todoist.com/): a to-do app that has helped me stay organized since I was in high school
+- [TIDAL](https://tidal.com/): a music streaming app with a much simpler and cleaner UI than others, supposedly pays the artists more per stream(?)
+- [Spark Email](https://sparkmailapp.com/): email client with a UI I just love
+- [Signal](https://signal.org/): simple, cross-platform, privacy-focused messaging and calling
+- [Proton Pass](https://protonmail.com/password-manager): a beautiful password manager by the Swiss privacy-focused company
+- [Maccy](https://maccy.app/): a very handy clipboard manager for Mac
+- [Marginalia](https://search.marginalia.nu/): an independent DIY search engine that focuses on non-commercial content
 
 ## Media
 

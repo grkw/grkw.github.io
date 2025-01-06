@@ -28,11 +28,11 @@ I found CrossFit almost by accident -- the gym near my house was open during the
 
 ### Running
 
-I ran track & field and cross country when I was in grade school, and it's been part of me ever since. I ran my own trail half-marathon over the pandemic. Follow me on Strava.
+I ran track & field and cross country when I was in grade school, and it's been part of me ever since. I ran my own trail half-marathon over the pandemic. Follow me on [Strava](https://strava.app.link/izFeU3erVPb).
 
 ## Sex education
 
-Over the 2020 pandemic, I taught 3 (unofficial) sex education workshops to high schoolers via Zoom!
+Over the 2020 pandemic, I taught unofficial sex education workshops to high schoolers via Zoom through Learning Unlimited's ["Splash"](https://www.learningu.org/) and ran Instagram lives with [About Face](https://about-face.org/) supporting media literacy for girls! You can peruse my big ol' list of resources [here](https://graceinitiative.notion.site/Sex-Ed-Resources-89e363399f8b470eb22d8f88a03a0337) or just go to the amazing [Scarleteen](https://www.scarleteen.com/) as your one-stop-shop.
 
 ## Spanish
 
@@ -63,7 +63,7 @@ Since [곽 (Kwak)](<https://en.wikipedia.org/wiki/Kwak_(surname)>) is a very unc
 - Seattle, WA
 - San Francisco, CA
 - Sunnyvale, CA
-- New York City, NY
+- Brooklyn, NY
 
 ## Places I want to live
 
