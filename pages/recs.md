@@ -12,6 +12,7 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 
 ### Apps
 
+- [Unread](https://www.goldenhillsoftware.com/unread/): beautiful add-free RSS reader for Mac, iPhone, iPad
 - [Arc browser](https://arc.net/): a web browser with the UI I was looking for to stay focused and organized on the internet (though it is Chrome-based)
 - [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid): Chrome extension that removes YouTube recommended and shorts
 - [Minimal LinkedIn](https://github.com/cindywu/minimal-linkedin): a Chrome extension that blocks the cluttery content
@@ -24,6 +25,11 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 - [Proton Pass](https://protonmail.com/password-manager): a beautiful password manager by the Swiss privacy-focused company
 - [Maccy](https://maccy.app/): a very handy clipboard manager for Mac
 - [Marginalia](https://search.marginalia.nu/): an independent DIY search engine that focuses on non-commercial content
+
+## Health
+
+- [Lunette menstrual cup](https://store.lunette.com/): super soft and comfy for both lounging and exercising, chemical-free medical-grade silicone, never have to buy pads/tampons, only have to empty it every 8 hours, cost-effective and eco-friendly in the long run (saves over $100/year by not buying disposable products and I've had mine since 2017!)
+- [Thinx period underwear](https://www.thinx.com/): also super soft and comfy, cost-effective and eco-friendly in the long run, a reasonable amount of absorption capacity, a nice backup for when I don't have my menstrual cup handy or an alternative on light days
 
 ## Media
 
