@@ -33,6 +33,7 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 - [TIDAL](https://tidal.com/): a music streaming app with a much simpler and cleaner UI than others, supposedly pays the artists more per stream(?)
 - [Marginalia](https://search.marginalia.nu/): an independent DIY search engine that focuses on non-commercial
 - [Unread](https://www.goldenhillsoftware.com/unread/): beautiful add-free RSS reader for Mac, iPhone, iPad
+- [Rocket](https://matthewpalmer.net/rocket/): a free emoji picker for Mac with Slack-style shortcuts
 
 ## Health
 
