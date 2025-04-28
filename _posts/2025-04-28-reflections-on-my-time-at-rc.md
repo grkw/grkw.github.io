@@ -1,22 +1,27 @@
 ---
 layout: post
-title: "Reflecting on my time at the Recurse Center"
-date: 2025-02-20
+title: "Reflections on my time at RC"
+date: 2025-04-28
 ---
 ## What a joy
 
-This past winter, I completed an educational programming retreat at the [Recurse Center](https://www.recurse.com/) in Brooklyn, New York. I invested 12 weeks into programming at the edge of my abilities in a community of motivated peers.
+This past winter, I completed a self-directed, community-focused programming retreat at the [Recurse Center](https://www.recurse.com/) in Brooklyn, New York. I invested 12 weeks into programming at the edge of my abilities in a community of motivated peers.
 
 There's main two things that I'm walking away with:
 
 1) renewed excitement of building my own projects, and
-2) the joy of doing so in community
 
-For me, these two things are deeply intertwined: I’m much more eager to build things now that I have a community of kind programmers to brainstorm with, celebrate with, seek help from, and generally just feel connected with. I've gotten exposed to so many cool things I would never have heard of before, which gives me ideas and inspiration for what I'd like to build next. What's more is that now that I've gotten to know programmers and makers of all different backgrounds and experience levels, I feel more secure in myself; I've never been one of those who have been tinkering and obsessed with computers since they were 8 years old, and I don't have to be.
+2) the joy of doing so in community.
 
-There are many people who know much more than I do about programming (just a fact, given that I am a wee young unexceptional non-CS-major new grad). Even so, it's not uncommon to stumble upon something _they_ don't know that _I_ can help them with. My knowledge is not simply a subset of theirs and I have much more to offer than I'd thought.
+For me, these two things are deeply intertwined: I’m much more eager to build things now that I have a community of kind programmers to brainstorm with, celebrate with, seek help from, and generally just feel connected with. I've gotten exposed to so many cool things I would never have heard of before, which gives me ideas and inspiration for what I'd like to build next.
 
-In the past, programming has felt so serious -- I've ascribed so much importance to it in my mind, like it's a calling and only for the chosen ones and something that only smart people can do well and are interested in (I think this my internalization of the societal glorification of male-coded work and the way that men do that work) -- and I'm afraid to find any way that "I can't do it" (it doesn't come as easily to me and I struggle more than others) because that'll be proof that I'm fundamentally stupid and will always be an outsider. But now, being part of the RC community has really helped me see that there's nothing innately special about good programmers and that there are as many different ways of being a programmers as there are ways of being a person in the world. Furthermore, regarding my value as a person, what do I care if someone is "better" at programming than I am? It's like if someone is "better" than me at weightlifting, cooking, crocheting, language-learning -- cool, great, neat; we're all on our own journeys that are complex beyond comparison. Programming is literally just another hobby or just another profession. When it comes to any programming thing, I could learn it if I wanted to (just like any other thing) -- and if I don't want to (i.e. if I'm not interested in it), then that's just fine because what I _do_ know and what I _am_ interested in is cool.
+What's more is that now that I've gotten to know programmers and makers of all different backgrounds and experience levels, I feel more secure in myself; I've never been one of those people (usually portrayed in society as cis white men) who have been tinkering and obsessed with computers since they were 8 years old, and I don't have to be.
+
+In the past, programming has felt so serious -- I've ascribed so much importance to it in my mind, like it's a calling meant only for the chosen ones, something that only smart people can do well and are interested in -- and I'm afraid to find any way that "I can't do it" (i.e. it doesn't come as easily to me and I struggle more than others) because that'll be proof that I'm fundamentally not good enough and will always be an outsider. But now, being part of the RC community has really helped me see that there's nothing innately special about good programmers and that there are as many different ways of being a good programmer as there are ways of being a person in the world.
+
+There are many people (at RC and otherwise) who know much more than I do about programming (just a fact, given that I am a wee young unexceptional new grad). Even so, I found that it's not uncommon to stumble upon something _they_ don't know that _I_ can help them with. My knowledge is not simply a subset of theirs and I have much more to offer than I'd thought.
+
+Furthermore, regarding my value as a person, what do I care if someone is "better" at programming than I am? It's like if someone is "better" than me at weightlifting, cooking, crocheting, language-learning -- cool, great, neat; we're all on our own journeys that are complex beyond comparison. Programming is literally just another hobby or just another profession. When it comes to any programming thing, I could learn it if I wanted to (just like any other thing) -- and if I don't want to (i.e. if I'm not interested in it), then that's just fine because what I _do_ know and what I _am_ interested in is cool.
 
 ### What I did at RC
 
@@ -41,16 +46,18 @@ In the past, programming has felt so serious -- I've ascribed so much importance
 
 ### What I'll do differently next time
 
-Looking back, I realize that I put a lot of pressure on myself to "make the most" of my time at RC. But being fresh out of college and not yet having the experience of working at a full-time job, I think I just didn't know what I was looking for. I did reach out to people to have coffee chats and pair program, tackle projects that pushed my comfort zone, and self-manage and structure my days but it wasn't until my second-to-last day of batch that I truly came to experience the magic of RC. Specifically, when I paired with Karen on setting up a homelab on my Ubuntu MacBookPro so that I could self-host my apps. It was a daunting task that turned out to be not so scary as I worked through it with her, and until that moment, I don't think I realized how much I wanted to explore self-hosting/servers/deployment and how afraid of it I'd been. Those few hours made me realize what it was that I'd been looking for.
+Looking back, I realize that I put a lot of pressure on myself to "make the most" of my time at RC. But being fresh out of college and not yet having the experience of working at a full-time job, I think I just didn't know what I was looking for. I did reach out to people to have coffee chats and pair program, tackle projects that pushed my comfort zone, and self-manage my days.
+
+But it wasn't until my second-to-last day of batch that I truly came to experience the magic of RC. Specifically, it was when I paired with Karen on setting up a homelab on my Ubuntu MacBookPro so that I could self-host my apps. It was a daunting task that turned out to be not so scary as I worked through it with her, and until that moment, I don't think I realized how much I wanted to explore self-hosting, servers, and deployment and how afraid of it I'd been. In those few hours, I felt like it clicked for me; I was truly "working at the edge of my abilities," "learning generously," and "building my volitional muscles" (the three RC self-directives).
 
 I wish I'd had more moments like these during my batch. Maybe if I'd pushed myself harder, I could've figured it out earlier on, but that winter was a challenging time in my life and I had been working at max capacity for many months prior. I felt like I needed to let myself just breathe and take it easy; I remember stepping back and asking myself "Am I happy?" and saying "Yes, I'm happy" and then "Ok, great!" and moving on because that was enough.
 
 That said, during my next batch, here's what I want to do differently:
 
-- Do a larger number of smaller-scale projects: In my experience, the last 20% of a project is 80% of the work (and only like 10% more learning) and if it's not something I really want to finish then it's not worth it. For me, RC is a better environment for exploring breadth as opposed to diving into depth. 
-- Attend all of the presentations and non-programming talks: I skipped out on some because I was enjoying my heads-down work time, but I think these are really a core part of RC!
-- Read people's checkins more frequently and spend more time on the fourth floor: Even if it's harder to focus, RC is a place for getting nerd-sniped!
-- Do at least 1 presentation (Presentation or Non-programming talk) every other week: Presentations at RC are so special -- they're low-stakes and have a supportive audience.
+- Do a _larger_ number of _smaller_-scale projects: In my experience, the last 20% of a project is 80% of the work (and only like 10% more learning) and if it's not something I really want to finish then it's not worth it. For me, RC is a better environment for exploring breadth as opposed to diving into depth because Recursers have such a wide variety of backgrounds and expertise.
+- Attend all of the presentations and non-programming talks: I skipped out on some because I was enjoying my heads-down work time, but I think these are really a core part of being in the RC community.
+- Read people's checkins more frequently and spend more time on the fourth floor: Even if it's harder to focus, RC is a place for getting nerd-sniped. I would like to be more open to that.
+- Do at least 1 presentation (either a programming presentation or a non-programming talk) every other week: Presentations at RC are so special -- they're low-stakes and have a supportive audience. I'm so happy with the four presentations I gave, and next time, I want to (and I feel ready to) do more.
 
 ### What I wanna build next
 
@@ -83,6 +90,6 @@ That said, during my next batch, here's what I want to do differently:
 
 ### Never graduate
 
-I've written up this document as a reflection on my time _in batch_ at RC, but my time at RC is not over. Something we say about alums at RC is that we "never graduate," meaning that even though our time in batch has ended, we're still learning and growing as part of the community. I'm active on Zulip, sharing what I've been working on and reading about what others are up to, and I pop in to virtual events when I can.
+I've written up this document as a reflection on my time _in batch_ at RC, but my time at RC is far from over. Something we say about alums at RC is that we "never graduate," meaning that even though our time in batch has ended, we're still learning and growing as part of the community. I'm active on Zulip, sharing what I've been working on and reading about what others are up to, and I pop in to virtual events every so often. It makes me so happy to keep in touch with fellow batchmates and to see new Recursers going through this amazing experience.
 
 Here's to never graduating!
