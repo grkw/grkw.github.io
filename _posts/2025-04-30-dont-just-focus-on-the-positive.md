@@ -9,7 +9,7 @@ Sometimes when I'm having a tough time in life, people tell me "focus on the pos
 
 Usually, when I actually *focus* on the positive, I start to feel fake, as if I'm lying to myself. Because to me, *focusing* on the positive is equivalent to suppressing or ignoring the negative, trying to pretend that it doesn't exist. Granted, *focus* on the positive could mean to simply put less weight or importance on the negative, but sometimes the negative is really truly significant. I don't feel like my whole self without it.
 
-"Focus on the positive" implies that the negative is so awful and scary that I shouldn't even think about it -- but I find that not thinking about it makes it more awful and scary because it remains as a mysterious dark thing looming in the background. Instead, if I face the negative, it loses its power over me, or at least some of it -- I can prove to myself that I can handle it.
+To me, "focus on the positive" implies that the negative is so awful and scary that I shouldn't even think about it -- but I find that not thinking about it makes it more awful and scary because it remains as a mysterious dark thing looming in the background. Instead, if I face the negative, it loses its power over me, or at least some of it -- I can prove to myself that I can handle it.
 
 Furthermore, "focus on the positive" assumes that things are innately positive or negative, because in order to "focus on the positive," you have to make judgments about what's positive vs. what's not. But in reality, the vast majority of things in my life are neither wholly good nor wholly bad; it's way more complex than that.
 
