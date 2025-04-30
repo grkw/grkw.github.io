@@ -14,9 +14,22 @@ title: Saving Grace
         <p>(Actually, I might include some ephemera in this blog too, just because.)</p>
     </div><!-- /.blurb -->
 
+  </br>
+
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span style="color:#f18800;">[{{ post.date | date_to_string }}]</span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      </br>
+        <span style="color:#f18800; font-size:0.8em">
+          {{ post.date | date_to_string }} &nbsp;&nbsp;
+            {% for tag in post.tags %}
+              #{{ tag }}
+            </a>
+            {% endfor %}
+        </span> 
+      </li>
+    </br>
 	  {% endfor %}
 	</ul>
