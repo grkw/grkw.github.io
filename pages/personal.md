@@ -20,11 +20,19 @@ In addition to engineering, I've always loved writing and journaling. Over the p
 
 ### Meditation
 
-In September 2023, I participated in [Spirit Rock](https://www.spiritrock.org/)’s “Foundations of Mindfulness,” a 5-day silent meditation retreat. Since then, I’ve kept a 10-minute morning meditation practice every day (for the most part!).
+In September 2023, I participated in [Spirit Rock Meditation Center](https://www.spiritrock.org/)’s “Foundations of Mindfulness,” a 5-day silent meditation retreat. Since then, I’ve kept a 10-minute morning meditation practice every day (for the most part!).
 
 ### Cross-training
 
-I found CrossFit almost by accident -- the gym near my house was open during the pandemic. Turns out, it's just the physical outlet that I needed. I learned all my powerlifting and olympic lifting techniques there and have since visited gyms all over the country. Here's [me doing my favorite CrossFit workout](https://www.instagram.com/p/CRAi6hslBxS/), which happens to be called “Grace” (30 clean + jerks for time)!
+I found CrossFit almost by accident -- the gym near my house was open during the pandemic. Turns out, it's exactly the intense physical outlet that I need. I learned all my powerlifting and olympic lifting techniques there and have since dropped in at other gyms while traveling/living around the country (San Jose, CA; San Francisco, CA; Seattle, WA; Los Angeles, CA; Dallas, TX; New York City, NY) and around the world (Lisbon, Portgual; Porto, Portugal; Barcelona, Spain; Madrid, Spain; Mexico City, Mexico; Seoul, South Korea).
+
+My favorite CrossFit workout happens to be called “Grace” (30 clean + jerks for time)!
+
+My favorite gyms:
+
+- Croga CrossFit - San Jose, CA (the one that started it all)
+- Fog City CrossFit - San Francisco, CA (this one is my all-time favorite)
+- Murder of Crows Barbell - Brooklyn, NY (my home on the East Coast)
 
 ### Running
 
@@ -44,48 +52,7 @@ Unos libros que leí en español (y que me gustaron): _La casa de los espíritus
 
 Since [곽 (Kwak)](<https://en.wikipedia.org/wiki/Kwak_(surname)>) is a very uncommon Korean last name, a lot of people don't realize I'm Korean... surprise! Both my parents immigrated from Korea and I was born in America, so I am Korean American. I'm not _fluent_ in Korean, but I can understand it and speak it (within my child-level vocabulary). I can read and write 한글.
 
-## People
-
-### Wow my idols
-
-- [Julia Evans](https://jvns.ca/)
-
-## Dogs
+## Dogs of my life
 
 - Coco
 - Bedlam & Bernice
-
-## Places I've lived
-
-- San Jose, CA
-- Los Angeles, CA
-- Dallas, TX
-- Seattle, WA
-- San Francisco, CA
-- Sunnyvale, CA
-- Brooklyn, NY
-
-## Places I want to live
-
-## Arts & crafts
-
-### Crochet & knitting
-
-### Sewing
-
-### Perler beads
-
-## Quotes I like
-
-## Unpopular opinions
-
-## Project ideas
-
-## Miscellaneous
-
-- I played the mellophone in the UCLA Marching Band.
-
-## In my next life
-
-- [Hack Club](https://hackclub.com/)
-- Farming (beekeeping, chicken coop, gardening)
