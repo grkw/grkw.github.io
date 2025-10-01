@@ -18,6 +18,7 @@ It explains all the backlash against social justice movements, and it makes tota
 
 - The Recurse Center has an amazing culture of programmers, and they have these [four social rules](https://www.recurse.com/social-rules).
 - Split [glue work](https://www.noidea.dog/glue) evenly amongst team members.
+- [Be a sponsor, not a mentor](https://larahogan.me/blog/what-sponsorship-looks-like/)
 
 ## Privilege
 
@@ -34,6 +35,9 @@ I would love if all the men in my life read (and thoughtfully processed) these e
 ## Gender
 
 This section focuses on women and men for now, but I want to make it include the experiences of non-binary people too.
+
+- [Stereotype threat is real](https://mitadmissions.org/blogs/entry/picture-yourself-as-a-stereotypical-male/)
+- [Unlocking the Clubhouse](https://drive.google.com/file/d/17WuN6UJ_G3c23cqTv3O6sevIaGAsBA-U/view?usp=sharing) validated a lot of my experiences as a "woman engineer"
 
 ### Women are not the problem, society is
 
@@ -55,6 +59,8 @@ There's research studies showing that women ask for promotions and negotiations 
 
 "For decades, women have misunderstood an important law of the professional jungle. It’s not enough to keep one’s head down and plug away, checking items off a list. Having talent isn’t merely about being competent; confidence is a part of that talent. You have to have it to excel." What if we lived in a world in which we recognized each other's accomplishments, and didn't have to constantly fight for ourselves and sell ourselves?
 
+So yeah this is why I'm tired of people "giving advice" to women as if we're the ones that need fixing. It's the culture that needs to change, and we can't do that by ourselves: we need allies on board.
+
 ### We don't need a female Bezos
 
 [Girl Boss Feminism: What Is It and Why We Should Avoid It at All Costs?](https://femonomic.com/girl-boss-feminism-what-is-it-and-why-we-should-avoid-it-at-all-costs/)
@@ -68,4 +74,8 @@ There's research studies showing that women ask for promotions and negotiations 
 > It’s significantly harder to become a Girl Boss if you’re not a white, able-bodied, Cis woman. Much like The American Dream, Girl Boss feminism works much better if you’re white, able-bodied, and cis. Disabled women, women of color, and trans women have bigger hurdles of oppression to overcome and do not have the privilege of simply “shedding” their oppression with corporate success. Because this narrative that you can outgrow your oppression is being pushed, it effectively leaves women who are not white and cis-gender behind and actively uses their backs as stepping stones for white women’s success.
 >
 > Girl Boss Feminism blames women for their own oppression. As noted earlier, there is no individual corporate success that could absolve anyone of misogyny, but for anyone to claim that misogyny works in this way is to blame women for their own oppression. It definitely reads as a suggestion that women who feel oppression and abuse, whether verbal, financial, emotional, or sexual, just haven’t worked hard enough or been strong enough to overcome it and to stop it from happening to themselves.
+
+### Random
+
+- [Shirt for women that says "Engineer"](https://manwhohasitallshop.com/product/engineer-top/Black) and [shirt for men that says "Male Engineer"](https://manwhohasitallshop.com/product/male-engineer-t-shirt-5caa53d6e775b/). *Awesome*
 
