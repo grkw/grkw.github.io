@@ -14,6 +14,11 @@ Here's a quote I absolutely love:
 
 It explains all the backlash against social justice movements, and it makes total sense! It helps me extend compassion and understanding to people to have privileges that I don't have (and help me embrace not getting something that I previously took for granted).
 
+## How to be a good ally
+
+- The Recurse Center has an amazing culture of programmers, and they have these [four social rules](https://www.recurse.com/social-rules).
+- Split [glue work](https://www.noidea.dog/glue) evenly amongst team members.
+
 ## Privilege
 
 I love Sam Killerman's articles about privilege, which all start with "It’s not about shame. It’s about understanding".
@@ -26,7 +31,11 @@ I would love if all the men in my life read (and thoughtfully processed) these e
 
 [Middle-to-Upper Class Privileges](https://www.itspronouncedmetrosexual.com/2012/10/list-of-upperclass-privilege/) that I hold.
 
-## Women are not the problem, society is
+## Gender
+
+This section focuses on women and men for now, but I want to make it include the experiences of non-binary people too.
+
+### Women are not the problem, society is
 
 What first got me into thinking about gender was [The Confidence Gap](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/), a longform article in The Atlantic. After reading it, it was like a veil had been removed and I suddenly couldn't help but notice the everyday ways in which sexism, gender bias, and misogyny affect my life. At the grocery checkout line, would the cashier be *this* rude to me if I were a man? During lunch time at work, why do we always seem to be talking about the hobbies of the two white men?
 
@@ -46,7 +55,7 @@ There's research studies showing that women ask for promotions and negotiations 
 
 "For decades, women have misunderstood an important law of the professional jungle. It’s not enough to keep one’s head down and plug away, checking items off a list. Having talent isn’t merely about being competent; confidence is a part of that talent. You have to have it to excel." What if we lived in a world in which we recognized each other's accomplishments, and didn't have to constantly fight for ourselves and sell ourselves?
 
-## We don't need a female Bezos
+### We don't need a female Bezos
 
 [Girl Boss Feminism: What Is It and Why We Should Avoid It at All Costs?](https://femonomic.com/girl-boss-feminism-what-is-it-and-why-we-should-avoid-it-at-all-costs/)
 
