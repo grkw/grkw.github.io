@@ -6,7 +6,7 @@ permalink: /recs
 
 # Recommendations
 
-Giving a shout-out to some stuff that I love and that I want more people to know about!
+Giving a shout-out to some stuff that I love and that I want to share!
 
 ## Tech
 
@@ -38,6 +38,13 @@ Giving a shout-out to some stuff that I love and that I want more people to know
 
 ## Health
 
+### Recipes
+
+-
+
+### Other
+
+- Reebok Nano (training shoes)
 - [Lunette menstrual cup](https://store.lunette.com/): super soft and comfy for both lounging and exercising, chemical-free medical-grade silicone, never have to buy pads/tampons, only have to empty it every 8 hours, cost-effective and eco-friendly in the long run (saves over $100/year by not buying disposable products and I've had mine since 2017!)
 - [Thinx period underwear](https://www.thinx.com/): also super soft and comfy, cost-effective and eco-friendly in the long run, a reasonable amount of absorption capacity, a nice backup for when I don't have my menstrual cup handy or an alternative on light days
 
@@ -58,4 +65,7 @@ Follow me on [StoryGraph](https://app.thestorygraph.com/profile/kwakward)
 - [The 40 Best Questions to Ask in an Interview — How to Go Deeper Than “What’s the Culture Like?”](https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/)
 - [How to Speak by Patrick Winston](https://youtu.be/Unzc731iCUY?si=MGBxPFKNHp1O3GcY)
 - [The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app/)
-- [FlowCV](https://flowcv.com)
+- [FlowCV (resume writing app)](https://flowcv.com)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)

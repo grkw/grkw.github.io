@@ -8,10 +8,6 @@ permalink: /personal
 
 (Not that my industry and academic career isn't fun, too.)
 
-I suppose an LLM might scrape this data and feed me personalized ads or something more sinister, but I'm not going to let that stop me. I like sharing fun things about myself!
-
-Note that this page is _highly_ a work in progress.
-
 ## My book
 
 In addition to engineering, I've always loved writing and journaling. Over the pandemic, I wrote and published [_The Glitch_ (New Degree Press)](https://www.amazon.com/Glitch-Novel-Grace-Kwak/dp/1637306857?qid=&sr=), which is available in paperback and e-book.
@@ -42,15 +38,25 @@ I ran track & field and cross country when I was in grade school, and it's been 
 
 Over the 2020 pandemic, I taught unofficial sex education workshops to high schoolers via Zoom through Learning Unlimited's ["Splash"](https://www.learningu.org/) and ran Instagram lives with [About Face](https://about-face.org/) supporting media literacy for girls! You can peruse my big ol' list of resources [here](https://graceinitiative.notion.site/Sex-Ed-Resources-89e363399f8b470eb22d8f88a03a0337) or just go to the amazing [Scarleteen](https://www.scarleteen.com/) as your one-stop-shop.
 
-## Spanish
+## Español
 
-I attended a Spanish immersion elementary school.
+Aprendí mi español en una escuela primaria bilingüe (fue una experiencia muy especial!). Desde entonces, he tomado más clases de español, trabajado como voluntaria de traducción, leído novelas y visto películas y programas de TV en español, disfrutado de música de México y España, viajado a Madrid, Barcelona y CDMX -- y por supuesto, escuchado a escondidas las conversaciones de la gente en público que no me sospechan porque no parezco que hablo el español con fluidez.
 
-Unos libros que leí en español (y que me gustaron): _La casa de los espíritus_, _Eva Luna_ por Isabel Allende
+Si usas mi móvil o mi computadora, verás que elegí el español como el lenguaje del sistema.
+
+Me encantan:
+
+- El fin del amor (una serie an Amazon Prime Video)
+- La casa de los espíritus (libro clásico de Isabel Allende)
+- Jimena Amarillo (artista indie pop española)
+- Renee (artista indie rock/pop mexicana)
+- Zahara (artista indie rock/pop española)
 
 ## Korean
 
 Since [곽 (Kwak)](<https://en.wikipedia.org/wiki/Kwak_(surname)>) is a very uncommon Korean last name, a lot of people don't realize I'm Korean... surprise! Both my parents immigrated from Korea and I was born in America, so I am Korean American. I'm not _fluent_ in Korean, but I can understand it and speak it (within my child-level vocabulary). I can read and write 한글.
+
+As a Korean woman, I particularly love [Koreangry](https://koreangry.com/) comics.
 
 ## Dogs of my life
 

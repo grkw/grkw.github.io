@@ -1,13 +1,13 @@
 @import "https://cdn.jsdelivr.net/npm/water.css@2/out/light.css";
 
 :root {
-  line-height: 1.1;
+  line-height: 1.1em;
   font-size: 1.0em;
 }
 
-body {
-  margin: 60px auto;
-  width: 70%;
+p {
+  line-height: 1.5em;
+  font-size: 1.1em;
 }
 
 nav ul,
