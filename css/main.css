@@ -38,3 +38,11 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+
+ul, ol {
+  font-size: 1.1em; /* Match your p { font-size: 1.1em; } */
+}
+
+body {
+  margin-bottom: 96px; /* Adjust value as needed */
+}
