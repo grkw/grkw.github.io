@@ -18,6 +18,8 @@ In addition to engineering, I've always loved writing and journaling. Over the p
 
 In September 2023, I participated in [Spirit Rock Meditation Center](https://www.spiritrock.org/)’s “Foundations of Mindfulness,” a 5-day silent meditation retreat. Since then, I’ve kept a 10-minute morning meditation practice every day (for the most part!).
 
+I now attend [Insight Meditation Center](https://www.insightmeditationcenter.org/) and am part of [Community Village](https://community-village.org/).
+
 ### Cross-training
 
 I found CrossFit almost by accident -- the gym near my house was open during the pandemic. Turns out, it's exactly the intense physical outlet that I need. I learned all my powerlifting and olympic lifting techniques there and have since dropped in at other gyms while traveling/living around the country (San Jose, CA; San Francisco, CA; Seattle, WA; Los Angeles, CA; Dallas, TX; New York City, NY) and around the world (Lisbon, Portgual; Porto, Portugal; Barcelona, Spain; Madrid, Spain; Mexico City, Mexico; Seoul, South Korea).
@@ -27,7 +29,7 @@ My favorite CrossFit workout happens to be called “Grace” (30 clean + jerks 
 My favorite gyms:
 
 - Croga CrossFit - San Jose, CA (the one that started it all)
-- Fog City CrossFit - San Francisco, CA (this one is my all-time favorite)
+- Fog City CrossFit - San Francisco, CA (my all-time favorite)
 - Murder of Crows Barbell - Brooklyn, NY (my home on the East Coast)
 
 ### Running
@@ -58,7 +60,6 @@ Since [곽 (Kwak)](<https://en.wikipedia.org/wiki/Kwak_(surname)>) is a very unc
 
 As a Korean woman, I particularly love [Koreangry](https://koreangry.com/) comics.
 
-## Dogs of my life
+## DSA
 
-- Coco
-- Bedlam & Bernice
+I'm a dues paying member of the [Democratic Socialists of America](https://www.dsausa.org/), and a member of [Silicon Valley DSA](https://siliconvalleydsa.org/).
